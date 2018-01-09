@@ -1,6 +1,8 @@
 GoPay node.js
 =========
 
+WARNING: There is a lot of work to do. Almost no error handeling. Use at your own risk.
+
 Basic functions for GoPay REST API 
 
 ## Installation
