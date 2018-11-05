@@ -36,7 +36,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 };
 exports.__esModule = true;
 var request = require("request-promise-native");
-var GoPay = /** @class */ (function () {
+module.exports.GoPay = /** @class */ (function () {
     function GoPay(clientId, secretID, sandbox) {
         if (sandbox === void 0) { sandbox = true; }
         this.cid = clientId;
