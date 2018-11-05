@@ -12,11 +12,12 @@
     "chai": "^4.1.2",
     "mocha": "^4.1.0"
   },
-  "repository" : { 
-    "type" : "git",
-  	"url" : "https://github.com/rharasim/gopay-nodejs"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rharasim/gopay-nodejs"
   },
   "dependencies": {
-    "request": "^2.83.0"
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
   }
 }
