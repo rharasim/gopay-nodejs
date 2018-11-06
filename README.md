@@ -5,6 +5,8 @@ GoPay node.js SDK for payments REST API
 ![David](https://img.shields.io/david/rharasim/gopay-nodejs.svg)
 ![GitHub](https://img.shields.io/github/license/rharasim/gopay-nodejs.svg)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rharasim/gopay-nodejs.svg)
+![npm](https://img.shields.io/npm/dt/gopay-nodejs.svg)
+
 <p align="center">
   <img src="https://doc.gopay.com/images/logo.png">
 </p>
